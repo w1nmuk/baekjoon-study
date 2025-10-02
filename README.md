@@ -90,10 +90,11 @@ PR 제목과 내용에 어떤 문제를 어떻게 풀었는지 간략하게 작�
 
 Create pull request 버튼을 눌러 최종 제출합니다.
 Bash
-
-# 형식: git checkout -b [본인ID]/[주요내용]
-# 예시: w1nmuk이 1001번 문제를 푸는 경우
+Bash
 git checkout -b w1nmuk/solve-1001
+
+
+
 
 
 
