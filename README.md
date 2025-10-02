@@ -20,17 +20,25 @@
 
 .
 ├── [본인 GitHub ID]/
+
 │   ├── [문제 번호]/
+
 │   │   ├── main.py
+
 │   │   └── README.md (선택: 문제 풀이 기록)
+
 │   └── ...
+
 └── ...
 예시: w1nmuk님이 1000번 문제를 Python으로 풀었을 경우
 
 .
 └── w1nmuk/
+
     └── 1000/
+    
         └── main.py
 
 3. 작업한 브랜치를 push 한 뒤, main 브랜치로 **Pull Request(PR)**를 생성합니다.
+
 
