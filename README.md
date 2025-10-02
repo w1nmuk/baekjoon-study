@@ -89,12 +89,11 @@ push를 완료한 뒤 GitHub 저장소 페이지로 들어갑니다.
 
 PR 제목과 내용에 어떤 문제를 어떻게 풀었는지 간략하게 작성합니다.
 
-오른쪽의 Reviewers 메뉴를 클릭해서 함께 리뷰하고 싶은 스터디원을 지정합니다.
-
 Create pull request 버튼을 눌러 최종 제출합니다.
 ```Bash
-git checkout -b w1nmuk/solve-1001
+git push origin w1nmuk/solve-1001
 ```
+
 
 
 
