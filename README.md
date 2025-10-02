@@ -41,11 +41,13 @@
 1단계: 최초 1회만! 프로젝트 내 컴퓨터로 가져오기 (Clone)
 
 GitHub에 있는 스터디 프로젝트를 내 컴퓨터로 똑같이 복제하는 과정입니다. 가장 처음에 딱 한 번만 하시면 됩니다.
+
 '''bash
 원하는 폴더로 이동한 뒤, 아래 명령어를 실행하세요.
 baekjoon-study 라는 이름의 폴더가 생깁니다.
 git clone https://github.com/w1nmuk/baekjoon-study.git
 '''
+
 # 방금 생성된 프로젝트 폴더로 들어갑니다.
 cd baekjoon-study
 
@@ -91,6 +93,7 @@ PR 제목과 내용에 어떤 문제를 어떻게 풀었는지 간략하게 작�
 Create pull request 버튼을 눌러 최종 제출합니다.
 Bash
 git checkout -b w1nmuk/solve-1001
+
 
 
 
