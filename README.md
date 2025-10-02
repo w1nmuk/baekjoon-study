@@ -19,7 +19,7 @@
 1. 이 저장소(Repository)를 clone 받습니다.
 
 2. 매일 문제를 푼 뒤, 아래와 같은 구조로 파일을 저장하고 커밋(Commit) 합니다.
-
+```
 .
 ├── [본인 GitHub ID]/
 │   ├── [문제 번호]/
@@ -34,7 +34,7 @@
 └── w1nmuk/
     └── 1000/
         └── main.py
-
+```
 3. 작업한 브랜치를 push 한 뒤, main 브랜치로 **Pull Request(PR)**를 생성합니다.
 
 
@@ -97,6 +97,7 @@ Create pull request 버튼을 눌러 최종 제출합니다.
 ```Bash
 git checkout -b w1nmuk/solve-1001
 ```
+
 
 
 
